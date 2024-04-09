@@ -3,7 +3,7 @@
 This project is based on
 [JAXNeRF](https://github.com/google-research/google-research/tree/master/jaxnerf),
 which is a [JAX](https://github.com/google/jax) implementation of
-[NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](http://www.matthewtancik.com/nerf). This code is created and maintained by [Dharmendra Selvaratnam](https://github.com/Dharmendra04?tab=repositories) & [Dr Dena Bazazian](https://denabazazian.github.io/)
+[NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](http://www.matthewtancik.com/nerf). This code is created and maintained by [Dharmendra Selvaratnam](https://github.com/Dharmendra04?tab=repositories) & [Dena Bazazian](https://denabazazian.github.io/)
 
 
 ## Abstract
