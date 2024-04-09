@@ -84,3 +84,16 @@ you can visualise the results by using the follwing code on tensor-board.
 You can see the test results, features and Metrics etc.
 
 
+BibTeX
+
+If you find our code useful, please cite our paper:
+@InProceedings{Selvaratnam_2024_CVPR,
+    author    = {Selvaratnam, Dharmendra and Bazazian, Dena},
+    title     = {Localised-NeRF: Specular Highlights and Colour Gradient Localising in NeRF},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+    month     = {June},
+    year      = {2024},
+    pages     = { - }
+}
+
+
