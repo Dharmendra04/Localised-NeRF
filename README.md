@@ -84,7 +84,7 @@ you can visualise the results by using the follwing code on tensor-board.
 You can see the test results, features and Metrics etc.
 
 ## Citation
-#BibTeX
+# BibTeX
 
 If you find our code useful, please cite our paper:
 ```
