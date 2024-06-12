@@ -95,7 +95,7 @@ If you find our code useful, please cite our paper:
 }
 ```
 
-# References
+# Reference
 
 This project is based on
 [JAXNeRF](https://github.com/google-research/google-research/tree/master/jaxnerf),
